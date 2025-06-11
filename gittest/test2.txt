@@ -1,1 +1,2 @@
 Hello!
+Added .gitignore through Terminal
