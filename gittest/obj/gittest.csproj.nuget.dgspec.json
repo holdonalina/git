@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alina/hillel/course/git/gittest/gittest.csproj": {}
+    "/Users/alina/hillel/course/git copy/gittest/gittest.csproj": {}
   },
   "projects": {
-    "/Users/alina/hillel/course/git/gittest/gittest.csproj": {
+    "/Users/alina/hillel/course/git copy/gittest/gittest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alina/hillel/course/git/gittest/gittest.csproj",
+        "projectUniqueName": "/Users/alina/hillel/course/git copy/gittest/gittest.csproj",
         "projectName": "gittest",
-        "projectPath": "/Users/alina/hillel/course/git/gittest/gittest.csproj",
+        "projectPath": "/Users/alina/hillel/course/git copy/gittest/gittest.csproj",
         "packagesPath": "/Users/alina/.nuget/packages/",
-        "outputPath": "/Users/alina/hillel/course/git/gittest/obj/",
+        "outputPath": "/Users/alina/hillel/course/git copy/gittest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alina/.nuget/NuGet/NuGet.Config"
