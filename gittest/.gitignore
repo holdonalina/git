@@ -7,6 +7,7 @@ obj/
 *.cache
 *.dll
 *.exe
+*.txt
 
 # Visual Studio 2017/2019 specific files
 .vscode/
