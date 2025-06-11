@@ -1,0 +1,14 @@
+/Users/alina/hillel/course/git/gittest/bin/Debug/net9.0/gittest
+/Users/alina/hillel/course/git/gittest/bin/Debug/net9.0/gittest.deps.json
+/Users/alina/hillel/course/git/gittest/bin/Debug/net9.0/gittest.runtimeconfig.json
+/Users/alina/hillel/course/git/gittest/bin/Debug/net9.0/gittest.dll
+/Users/alina/hillel/course/git/gittest/bin/Debug/net9.0/gittest.pdb
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.AssemblyInfoInputs.cache
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.AssemblyInfo.cs
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.csproj.CoreCompileInputs.cache
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.dll
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/refint/gittest.dll
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.pdb
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/gittest.genruntimeconfig.cache
+/Users/alina/hillel/course/git/gittest/obj/Debug/net9.0/ref/gittest.dll
